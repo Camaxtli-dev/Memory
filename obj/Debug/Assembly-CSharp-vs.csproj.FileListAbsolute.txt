@@ -1,0 +1,14 @@
+I:\Dev\Version 5.1 Personal\Memory\Temp\bin\Debug\Assembly-CSharp.dll
+I:\Dev\Version 5.1 Personal\Memory\Temp\bin\Debug\Assembly-CSharp.pdb
+I:\Dev\Version 5.1 Personal\Memory\Temp\bin\Debug\UnityEditor.dll
+I:\Dev\Version 5.1 Personal\Memory\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+I:\Dev\Version 5.1 Personal\Memory\Temp\bin\Debug\UnityEngine.dll
+I:\Dev\Version 5.1 Personal\Memory\Temp\bin\Debug\UnityEngine.UI.dll
+I:\Dev\Version 5.1 Personal\Memory\Temp\bin\Debug\Mono.Cecil.dll
+I:\Dev\Version 5.1 Personal\Memory\Temp\bin\Debug\Unity.SerializationLogic.dll
+I:\Dev\Version 5.1 Personal\Memory\Temp\bin\Debug\Unity.DataContract.dll
+I:\Dev\Version 5.1 Personal\Memory\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+I:\Dev\Version 5.1 Personal\Memory\Temp\bin\Debug\Unity.CecilTools.dll
+I:\Dev\Version 5.1 Personal\Memory\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+I:\Dev\Version 5.1 Personal\Memory\obj\Debug\Assembly-CSharp.dll
+I:\Dev\Version 5.1 Personal\Memory\obj\Debug\Assembly-CSharp.pdb
